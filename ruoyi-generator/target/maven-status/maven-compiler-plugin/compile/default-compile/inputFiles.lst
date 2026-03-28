@@ -1,0 +1,13 @@
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\config\GenConfig.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\controller\GenController.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\domain\GenTable.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\domain\GenTableColumn.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\mapper\GenTableColumnMapper.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\mapper\GenTableMapper.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\service\GenTableColumnServiceImpl.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\service\GenTableServiceImpl.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\service\IGenTableColumnService.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\service\IGenTableService.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\util\GenUtils.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\util\VelocityInitializer.java
+D:\0324\RuoYi-Vue-master\RuoYi-Vue-master\ruoyi-generator\src\main\java\com\ruoyi\generator\util\VelocityUtils.java
